@@ -1,8 +1,8 @@
 First Name,Last Name,Country,age
-"Bob","Smith","United States",24
-"Alice","Williams","Canada",23
-"Malcolm","Jone","England",22
-"Felix","Brown","USA",23
-"Alex","Cooper","Poland",23
-"Tod","Campbell","United States",22
-"Derek","Ward","Switzerland",25
+"Bob","Smith","United States",24.5
+"Alice","Williams","Canada",23.6
+"Malcolm","Jone","England",22.4
+"Felix","Brown","USA",23.6
+"Alex","Cooper","Poland",23.3
+"Tod","Campbell","United States",22.5
+"Derek","Ward","Switzerland",25.9
